@@ -1,21 +1,15 @@
-# Dynamic-Programming-Questions-by-Aditya-Verma
-
-Codes of all questions covered by Aditya Verma in his Dynamic Programming Lectures\
-(Codes are tested on gfg / leetcode and are in the order of videos)\
-Note: **Click on title of question to go to the page of code**
-
 - **0/1 Knapsack**
-  <!-- - [Knapsack Recursive](knapsack_recursive.cpp) -->
+  - [Knapsack Recursive](knapsack_recursive.cpp)
     
-  <!-- - [Knapsack Memoization](knapsack_memoization.cpp) -->
+  - [Knapsack Memoization](knapsack_memoization.cpp)
     
-  <!-- - [Knapsack Bottom-up](knapsack_top_down_dp.cpp) -->
+  - [Knapsack Bottom-up](knapsack_top_down_dp.cpp)
     
-  <!-- - [Subset Sum Problem](subset_sum_problem_dp.cpp) -->
+  - [Subset Sum Problem](subset_sum_problem_dp.cpp)
     
-  <!-- - [Equal Sum Partition Problem](equal_sum_partition_problem.cpp) -->
+  - [Equal Sum Partition Problem](equal_sum_partition_problem.cpp)
     
-  <!-- - [Count of Subsets Sum with a Given Sum](count_of_subsets_with_given_sum.cpp) -->
+  - [Count of Subsets Sum with a Given Sum](count_of_subsets_with_given_sum.cpp)
     
   - [Min Subset Sum Difference](min_subset_sum_diff.cpp)
 
@@ -87,18 +81,10 @@ Note: **Click on title of question to go to the page of code**
   - [Egg Dropping Problem Optimization Using Concept of Binary Search - Accepted on Leetcode (Credits: Comment below video)](egg_dropping_problem_optimized_for_leetcode.cpp)
 
 
-
-
-
-
-
 - **DP on Trees (Direct Solutions to leetcode / gfg problems)**
   - [Diameter of Binary Tree](diameter_of_binary_tree.cpp)
-    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=48)
-    - To Solve these problem on leetcode [Click Here.](https://leetcode.com/problems/diameter-of-binary-tree/)
+    
   - [Maximum path sum (from any node to any node)](max_path_sum_from_any_node_to_any.cpp)
-    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=49)
-    - To Solve these problem on leetcode [Click Here.](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+    
   - [Maximum path sum from leaf to leaf](max_path_sum_from_leaf_to_leaf.cpp)
-    - [Video Link](https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=50)
-    - To Solve these problem on GFG [Click Here.](https://practice.geeksforgeeks.org/problems/maximum-path-sum/1)
+    
